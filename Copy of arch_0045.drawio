@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T01:12:50.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.52" etag="98TVxhuYi0-m-naRf0aa" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-27T01:15:00.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.52" etag="ISdwG-QloQgeSzREUeJ1" version="17.2.4" type="github">
   <diagram id="R6LKjHRkVj6gWCjwfnXa" name="Page-1">
     <mxGraphModel dx="1609" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,7 +264,7 @@
         <mxCell id="avs_9zYvvi-18t2LZXdR-43" value="用户元数据&lt;br&gt;RMDBS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=19;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-540" y="540" width="133" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="avs_9zYvvi-18t2LZXdR-44" value="渠道数据中心" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=19;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="avs_9zYvvi-18t2LZXdR-44" value="渠道数据中心" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=19;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="651" y="540" width="133" height="77" as="geometry" />
         </mxCell>
       </root>
