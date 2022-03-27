@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T01:21:52.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.52" etag="QZHEqWJjz0r03tAOKGsJ" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-27T01:23:11.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.52" etag="tIYqXXxx5S5--KT6coyZ" version="17.2.4" type="github">
   <diagram id="R6LKjHRkVj6gWCjwfnXa" name="Page-1">
-    <mxGraphModel dx="1849" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -264,8 +264,16 @@
         <mxCell id="avs_9zYvvi-18t2LZXdR-35" value="Hive" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-326" y="540" width="126" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;fontColor=#0000CC;strokeWidth=2;fillColor=#4D4D4D;" edge="1" parent="1" source="avs_9zYvvi-18t2LZXdR-43" target="avs_9zYvvi-18t2LZXdR-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-47" value="同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontFamily=Comic Sans MS;fontColor=#0000CC;fontStyle=1" vertex="1" connectable="0" parent="avs_9zYvvi-18t2LZXdR-46">
+          <mxGeometry x="0.2302" y="-2" relative="1" as="geometry">
+            <mxPoint x="-12" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="avs_9zYvvi-18t2LZXdR-43" value="用户元数据&lt;br style=&quot;font-size: 16px;&quot;&gt;RMDBS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="540" width="130" height="70" as="geometry" />
+          <mxGeometry x="-566.5" y="540" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="avs_9zYvvi-18t2LZXdR-44" value="渠道数据中心" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fillColor=#fad9d5;strokeColor=#ae4132;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="651" y="540" width="129" height="70" as="geometry" />
