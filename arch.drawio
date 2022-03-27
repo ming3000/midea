@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T16:57:56.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="2pV_sS3G8GxjkTjZeRoj" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-27T00:26:35.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="f_bWnRiHKpQHASpOSgMd" version="17.2.4" type="github">
   <diagram id="R6LKjHRkVj6gWCjwfnXa" name="Page-1">
-    <mxGraphModel dx="2002" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="xEdestO7AOEsHorYzFaQ-27" value="行为数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="965" y="185" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xEdestO7AOEsHorYzFaQ-29" value="第三方数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="xEdestO7AOEsHorYzFaQ-29" value="渠道数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="1105" y="185" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xEdestO7AOEsHorYzFaQ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fontFamily=Comic Sans MS;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
