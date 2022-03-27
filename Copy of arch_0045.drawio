@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T00:31:48.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.52" etag="psuhvDvstTyDq8aJqQIN" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-27T00:47:32.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.52" etag="ya_OfKY8ZHL2PrpXJg6e" version="17.2.4" type="github">
   <diagram id="R6LKjHRkVj6gWCjwfnXa" name="Page-1">
     <mxGraphModel dx="1609" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,7 +185,40 @@
           <mxGeometry x="640" y="205" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="avs_9zYvvi-18t2LZXdR-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="370" width="320" height="60" as="geometry" />
+          <mxGeometry x="-300" y="400" width="651" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-21" value="统一网关" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-24.5" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-22" value="流量治理" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-294.5" y="415" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fillColor=#4D4D4D;strokeWidth=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="320" as="sourcePoint" />
+            <mxPoint x="25" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-24" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-187.5" y="415" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-25" value="灰度发布" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="415" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-26" value="蓝绿发布" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="415" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-27" value="链路追踪" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="126" y="415" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-28" value="安全管控" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;strokeWidth=0;fontFamily=Comic Sans MS;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="230" y="415" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="avs_9zYvvi-18t2LZXdR-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fillColor=#4D4D4D;strokeWidth=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22.5" y="460" as="sourcePoint" />
+            <mxPoint x="22.5" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
